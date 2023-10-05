@@ -33,7 +33,7 @@ if fig == 'Слон':
 if fig == 'Конь':
     fig1 = Kon(k, l)
 
-coordinat = fig1.hod()                                              # создание скиска клеток, на которые можно попасть за 1 ход
+coordinat = fig1.hod()                                              # создание списка клеток, на которые можно попасть за 1 ход
 
 if c2 in coordinat:
     print(f'{fig1.name} угрожает полю {c2}')
