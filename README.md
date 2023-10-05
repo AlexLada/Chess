@@ -26,3 +26,6 @@
 * main.py - файл для запуска программы
 * mechanics.py - файл, хранящий классы фигур
 ---
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
